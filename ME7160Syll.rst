@@ -212,5 +212,5 @@ this course are (in order): `Python`_,
 `Octave <http://www.octave.org>`__). Any of these
 languages that you are comfortable in will suffice. 
 
-.. _`the github respository`: https://github.com/josephcslater/Nonlinear-Dynamics-and-Vibration
+.. _`the github respository`: https://github.com/josephcslater/WSUME7160/Notes
 .. _`Python`: http://www.python.org
