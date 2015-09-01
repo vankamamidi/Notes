@@ -16,7 +16,7 @@ ME 7160: Nonlinear Dynamics and Vibration Homework
 |                |                                         |
 |                |                                         |
 +----------------+-----------------------------------------+
-| Sept. 16       | Homework 1<nldhw1.ipynb>                |
+| Sept. 16       | `Homework 1 <nldhw1.ipynb>`__           |
 +----------------+-----------------------------------------+
 | Sept. 23       |                                         |
 |                |                                         |
