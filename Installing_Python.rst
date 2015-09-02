@@ -29,6 +29,8 @@ For convenience, move into the directory with the notes/files.
 
    cd *directory where git put my Notes*
 
+The format for *directory where git put my Notes* varies by platform. You have to figure this out. 
+
 It's a good idea to type ``dir`` of  ``ls`` to see that you are indeed in the directory with all of the files.
 
 This is presuming you have set up your `github`_  account, installed and run the github desktop client (Mac or Windows only), then gone to the Notes (class) repository and clicked on *Clone in Desktop* before all of this.
