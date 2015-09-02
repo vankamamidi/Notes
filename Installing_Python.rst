@@ -31,7 +31,7 @@ For convenience, move into the directory with the notes/files.
 
 It's a good idea to type ``dir`` of  ``ls`` to see that you are indeed in the directory with all of the files.
 
-This is presuming you have set up your `gihub`_  account, installed and run the github desktop client (Mac or Windows only), then gone to the Notes (class) repository and clicked on *Clone in Desktop* before all of this.
+This is presuming you have set up your `github`_  account, installed and run the github desktop client (Mac or Windows only), then gone to the Notes (class) repository and clicked on *Clone in Desktop* before all of this.
 Cloning is better than copying because it means you can just run the git desktop app to keep your notes up to date with what I have. 
 
 
