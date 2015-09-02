@@ -5,7 +5,7 @@ In order to be able to read and run my notes (versus just display them on the we
 
 This is after you get your `github`_ account set up and "join" the class. To do that, create an account on `github`_ and send me your username. I will invite you to the repository. This isn't necessary at the moment, but will be once the class repository becomes private. 
 
-The easiest path to this is to install `Python 3.4`_ via `Anaconda`_. Note that the default is Python 2.7. **You need to choose `Python 3.4`_ for my notes to work fully.**
+The easiest path to this is to install `Python 3.4`_ via `Anaconda`_. Note that the default is Python 2.7. **You must install* `Python 3.4`_ *for my notes to work fully.**
 
 This proceeds as a normal install on your platform (Mac, Windows, Linux...).
 
